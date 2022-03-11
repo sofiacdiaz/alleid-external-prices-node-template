@@ -1,7 +1,7 @@
 {
   "name": "external-prices-node",
-  "vendor": "vtex",
-  "version": "0.3.1",
+  "vendor": "b2bangela",
+  "version": "0.3.9",
   "title": "External Prices Node App",
   "description": "A reference app for consulting external prices.",
   "categories": [],
@@ -18,8 +18,8 @@
     {
       "name": "outbound-access",
       "attrs": {
-        "host": "YOUR_SERVICE_DOMAIN",
-        "path": "*"
+        "host": "testepricehub.free.beeceptor.com",
+        "path": "/*"
       }
     },
     {
